@@ -1,6 +1,9 @@
 # Ignore everything in the data folder
+datasets/
 data/
 
+
+.DS_Store
 # Ignore pickle files
 # Ignore pickle files
 *.pkl
